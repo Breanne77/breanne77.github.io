@@ -440,7 +440,7 @@ BattleHUD.prototype.updateVisibility = function() {
 // DataManager
 //-----------------------------------------------------------------------------
 
-DataManager._testExceptions.push(_.mapFile, _.battleFile);
+//DataManager._testExceptions.push(_.mapFile, _.battleFile);//comment out to test web deploy fix
 
 DataManager._databaseFiles.push(
 	{name: '$dataMapHUD', src: _.mapFile},
