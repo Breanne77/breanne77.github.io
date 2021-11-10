@@ -1,12 +1,12 @@
-# Midnight Movie Massacre
+# [Midnight Movie Massacre](https://duckduckgo.com)
 ## By Groundbreak
-* Kamillah Hasham</div><div class="role">Producer
-* Cheyenne Hatter</div><div class="role">Lead Designer
-* Lisa Bourque</div><div class="role">Executive Producer
+| Kamillah Hasham | Producer
+| Cheyenne Hatter | Lead Designer
+| Lisa Bourque | Executive Producer
 
-* Aiden Batten</div><div class="role">Sound Designer
-* Jylee Halsted</div><div class="role">Art Designer
-* Breanne Sjodin</div><div class="role">Art/Programmer
+| Aiden Batten | Sound Designer
+| Jylee Halsted | Art Designer
+| Breanne Sjodin | Art/Programmer
 
-* Boris Nedev</div><div class="role">Programmer
-* Akshat Pandey</div><div class="role">Programmer
+| Boris Nedev | Programmer
+| Akshat Pandey | Programmer
