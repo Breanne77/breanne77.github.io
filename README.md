@@ -11,3 +11,6 @@
 | Boris Nedev | Programmer |
 | Akshat Pandey | Programmer|
 
+Right and left arrows to move, enter to interact with objects. During a battle, use arrow keys for some and the enter button for others.
+
+[Survey]()
