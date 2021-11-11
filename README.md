@@ -1,5 +1,6 @@
 # [Midnight Movie Massacre](https://duckduckgo.com)
 ## By Groundbreak
+| Syntax      | Description |
 | ----------- | ----------- |
 | Kamillah Hasham | Producer |
 | Cheyenne Hatter | Lead Designer |
