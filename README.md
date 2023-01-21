@@ -1,4 +1,4 @@
-# [Midnight Movie Massacre](https://duckduckgo.com)
+# [Midnight Movie Massacre](https://breanne77.github.io/Gold_release)
 
 | Team     | Groundbreak |
 | ----------- | ----------- |
